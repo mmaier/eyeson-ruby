@@ -5,7 +5,7 @@ Internal eyeson api rails sdk for service app implementation
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'eyeson', git: 'ssh://git@gitlab.infra.dev-visocon.com:2222/eyeson/eyeson-gem.git'
+gem 'eyeson', git: 'https://gitlab.infra.dev-visocon.com/eyeson/eyeson-ruby.git'
 ```
 
 And then execute:
